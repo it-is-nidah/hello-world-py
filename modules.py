@@ -2,9 +2,8 @@
 import math
 
 # the math module contains lots of pre-built functions
-print("The square root of 16 is", math.sqrt(16))
+print("The Square root of 34 is ", math.sqrt(34))
 
-# in addition to functions, some modules contain useful constants 
-print("Pi is:", math.pi)
-
+# in addition to functions, some modules contain useful constants
+print("PI is ", math.pi)
 # try some of the math functions for yourself here:
