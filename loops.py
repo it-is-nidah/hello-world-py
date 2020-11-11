@@ -1,11 +1,9 @@
-#
-# Example file for working with loops
-#
 
 def main():
   x = 0
 
-  # define a while loop
+
+  define a while loop
   while (x < 5 ):
     print (x)
 
